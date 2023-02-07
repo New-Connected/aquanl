@@ -101,6 +101,7 @@ body {
     font-weight: normal;
     font-size: 1.563vw;
     color: rgba(255,255,255,1);
+    background-color: transparent;
 }
 #SHOP {
     left: 10.99vw;

@@ -170,7 +170,7 @@ body {
     height: 0.417vw;
     left: 5.469vw;
     top: 3.333vw;
-    transition: left 250ms, ease-in-out;
+    transition: left 250ms ease-in-out;
 }
 #Schermafbeelding_2023-02-05_om_s {
     position: absolute;

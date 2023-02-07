@@ -230,17 +230,6 @@
     left: 21.458vw;
     top: 43.542vw;
 }
-#Rectangle_11 {
-    fill: rgba(43,43,43,1);
-}
-.Rectangle_11 {
-    position: absolute;
-    overflow: visible;
-    width: 17.865vw;
-    height: 20.521vw;
-    left: 41.25vw;
-    top: 43.542vw;
-}
 #Schermafbeelding_2023-02-05_om_z {
     position: absolute;
     width: 15.052vw;
@@ -261,20 +250,6 @@
     font-style: normal;
     font-weight: bold;
     font-size: 1.875vw;
-    color: rgba(255,255,255,1);
-}
-#ALGAE_SCRUBBER {
-    left: 43.385vw;
-    top: 44.688vw;
-    position: absolute;
-    overflow: visible;
-    width: 13.333vw;
-    white-space: nowrap;
-    text-align: left;
-    font-family: Helvetica;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 1.406vw;
     color: rgba(255,255,255,1);
 }
 #Rectangle_6 {
@@ -672,18 +647,4 @@
     transform-origin: center;
     left: 0vw;
     top: 0vw;
-}
-#Notes_3d_printed_Has_a_cloth_I {
-    left: 43.802vw;
-    top: 46.667vw;
-    position: absolute;
-    overflow: visible;
-    width: 13.281vw;
-    white-space: nowrap;
-    text-align: left;
-    font-family: Helvetica;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 1.875vw;
-    color: rgba(255,255,255,1);
 }

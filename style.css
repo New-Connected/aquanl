@@ -121,6 +121,10 @@ body {
     font-size: 1.563vw;
     color: rgba(255,255,255,1);
 }
+#SHOP:hover + .Rectangle_3 {
+    left: 10.7vw;
+    transition: 50ms;
+}
 #BLOG {
     left: 16.25vw;
     top: 1.771vw;

@@ -138,6 +138,10 @@ body {
     font-weight: normal;
     font-size: 1.563vw;
     color: rgba(255,255,255,1);
+    transition: left 50ms;
+}
+#BLOG:hover ~ .Rectangle_3 {
+    left: 10.7vw;
 }
 #CONTACT {
     left: 21.406vw;
@@ -152,6 +156,10 @@ body {
     font-weight: normal;
     font-size: 1.563vw;
     color: rgba(255,255,255,1);
+    transition: left 50ms;
+}
+#CONTACT:hover ~ .Rectangle_3 {
+    left: 10.7vw;
 }
 #Rectangle_3 {
     fill: rgba(255,255,255,1);

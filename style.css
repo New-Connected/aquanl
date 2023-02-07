@@ -103,7 +103,7 @@ body {
     color: rgba(255,255,255,1);
     background-color: transparent;
 }
-#HOME:hover + .Rectangle_3 {
+#HOME:hover ~ .Rectangle_3 {
     left: 5.469vw;
     transition: 50ms;
 }
@@ -121,7 +121,7 @@ body {
     font-size: 1.563vw;
     color: rgba(255,255,255,1);
 }
-#SHOP:hover + .Rectangle_3 {
+#SHOP:hover ~ .Rectangle_3 {
     left: 10.7vw;
     transition: 50ms;
 }

@@ -352,7 +352,7 @@ body {
     position: absolute;
     width: 0.938vw;
     height: 0.781vw;
-    transform: matrix(1,0,0,1,47,1577.5) rotate(90deg);
+    transform: matrix(1,0,0,1,2.448vw,82.161vw) rotate(90deg);
     transform-origin: center;
     left: 0vw;
     top: 0vw;
@@ -393,7 +393,7 @@ body {
     position: absolute;
     width: 0.521vw;
     height: 0.417vw;
-    transform: matrix(1,0,0,1,120,1572.9999) rotate(45deg);
+    transform: matrix(1,0,0,1,6.25vw,81.927vw) rotate(45deg);
     transform-origin: center;
     left: 0vw;
     top: 0vw;
@@ -406,7 +406,7 @@ body {
     position: absolute;
     width: 0.521vw;
     height: 0.417vw;
-    transform: matrix(1,0,0,1,103,1593) rotate(213deg);
+    transform: matrix(1,0,0,1,5.365vw,82.969vw) rotate(213deg);
     transform-origin: center;
     left: 0vw;
     top: 0vw;
@@ -419,7 +419,7 @@ body {
     position: absolute;
     width: 0.521vw;
     height: 0.417vw;
-    transform: matrix(1,0,0,1,99,1589) rotate(251deg);
+    transform: matrix(1,0,0,1,5.156vw,82.76vw) rotate(251deg);
     transform-origin: center;
     left: 0vw;
     top: 0vw;
@@ -561,7 +561,7 @@ body {
     position: absolute;
     width: 0.885vw;
     height: 0.781vw;
-    transform: matrix(1,0,0,1,35,1369) rotate(90deg);
+    transform: matrix(1,0,0,1,1.823vw,71.302vw) rotate(90deg);
     transform-origin: center;
     left: 0vw;
     top: 0vw;
@@ -580,7 +580,7 @@ body {
     position: absolute;
     width: 0.885vw;
     height: 0.781vw;
-    transform: matrix(1,0,0,1,35,1406) rotate(90deg);
+    transform: matrix(1,0,0,1,1.823vw,73.229vw) rotate(90deg);
     transform-origin: center;
     left: 0vw;
     top: 0vw;
@@ -613,7 +613,7 @@ body {
     position: absolute;
     width: 0.885vw;
     height: 0.781vw;
-    transform: matrix(1,0,0,1,35,1443) rotate(90deg);
+    transform: matrix(1,0,0,1,1.823vw,75.156vw) rotate(90deg);
     transform-origin: center;
     left: 0vw;
     top: 0vw;
@@ -646,7 +646,7 @@ body {
     position: absolute;
     width: 0.885vw;
     height: 0.781vw;
-    transform: matrix(1,0,0,1,35,1480) rotate(90deg);
+    transform: matrix(1,0,0,1,1.823vw,77.083vw) rotate(90deg);
     transform-origin: center;
     left: 0vw;
     top: 0vw;

@@ -119,6 +119,7 @@ body {
     font-weight: normal;
     font-size: 1.563vw;
     color: rgba(255,255,255,1);
+    background-color: transparent;
 }
 #SHOP:hover ~ .Rectangle_3 {
     left: 10.7vw;
@@ -136,6 +137,7 @@ body {
     font-weight: normal;
     font-size: 1.563vw;
     color: rgba(255,255,255,1);
+    background-color: transparent;
 }
 #BLOG:hover ~ .Rectangle_3 {
     left: 16.1vw;
@@ -153,6 +155,7 @@ body {
     font-weight: normal;
     font-size: 1.563vw;
     color: rgba(255,255,255,1);
+    background-color: transparent;
 }
 #CONTACT:hover ~ .Rectangle_3 {
     left: 22.7vw;

@@ -102,7 +102,7 @@ body {
     font-size: 1.563vw;
     color: rgba(255,255,255,1);
     background-color: transparent;
-    transition: left 50ms;
+    transition: left 250ms;
 }
 #HOME:hover ~ .Rectangle_3 {
     left: 5.469vw;
@@ -120,7 +120,7 @@ body {
     font-weight: normal;
     font-size: 1.563vw;
     color: rgba(255,255,255,1);
-    transition: left 50ms;
+    transition: left 250ms;
 }
 #SHOP:hover ~ .Rectangle_3 {
     left: 10.7vw;
@@ -138,7 +138,7 @@ body {
     font-weight: normal;
     font-size: 1.563vw;
     color: rgba(255,255,255,1);
-    transition: left 50ms;
+    transition: left 250ms;
 }
 #BLOG:hover ~ .Rectangle_3 {
     left: 10.7vw;
@@ -156,7 +156,7 @@ body {
     font-weight: normal;
     font-size: 1.563vw;
     color: rgba(255,255,255,1);
-    transition: left 50ms;
+    transition: left 250ms;
 }
 #CONTACT:hover ~ .Rectangle_3 {
     left: 10.7vw;

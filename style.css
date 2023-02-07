@@ -497,10 +497,10 @@
     position: absolute;
     width: 0.833vw;
     height: 0.625vw;
-    transform: matrix(1,0,0,1,1.458vw,3.177vw) rotate(25deg);
+    transform: matrix(1,0,0,1,0,0) rotate(25deg);
     transform-origin: center;
-    left: 0vw;
-    top: 0vw;
+    left: 1.458vw;
+    top: 3.177vw;
 }
 #SUPPORT {
     left: 1.667vw;

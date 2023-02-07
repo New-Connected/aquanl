@@ -15,8 +15,8 @@
 }
 #Web_1920__1 {
     position: absolute;
-    width: 1920px;
-    height: 1641px;
+    width: 100vw;
+    height: 85.469vw;
     background-color: rgba(255,255,255,1);
     overflow: hidden;
     --web-view-name: Web 1920 – 1;
@@ -27,18 +27,18 @@
 #Scroll_Group_1 {
     mix-blend-mode: normal;
     position: absolute;
-    width: 1920px;
-    height: 694px;
-    left: 0px;
-    top: 96px;
+    width: 100vw;
+    height: 36.146vw;
+    left: 0vw;
+    top: 5vw;
     overflow: hidden;
 }
 #Schermafbeelding_2023-02-05_om {
     position: absolute;
-    width: 1920px;
-    height: 889px;
-    left: 0px;
-    top: -44px;
+    width: 100vw;
+    height: 46.302vw;
+    left: 0vw;
+    top: -2.292vw;
     overflow: visible;
 }
 #Rectangle_1 {
@@ -47,10 +47,10 @@
 .Rectangle_1 {
     position: absolute;
     overflow: visible;
-    width: 1920px;
-    height: 96px;
-    left: 0px;
-    top: 0px;
+    width: 100vw;
+    height: 5vw;
+    left: 0vw;
+    top: 0vw;
 }
 #Rectangle_2 {
     fill: rgba(43,43,43,1);
@@ -58,10 +58,10 @@
 .Rectangle_2 {
     position: absolute;
     overflow: visible;
-    width: 344px;
-    height: 394px;
-    left: 34px;
-    top: 836px;
+    width: 17.917vw;
+    height: 20.521vw;
+    left: 1.771vw;
+    top: 43.542vw;
 }
 #Schermafbeelding_2023-02-05_om_k {
     fill: rgba(255,255,255,1);
@@ -69,10 +69,10 @@
 .Schermafbeelding_2023-02-05_om_k {
     position: absolute;
     overflow: visible;
-    width: 72px;
-    height: 72px;
-    left: 12px;
-    top: 12px;
+    width: 3.75vw;
+    height: 3.75vw;
+    left: 0.625vw;
+    top: 0.625vw;
 }
 #Schermafbeelding_2023-02-05_om_m {
     fill: url(#images/Schermafbeelding_2023-02-05_om_s.png);
@@ -80,65 +80,65 @@
 .Schermafbeelding_2023-02-05_om_m {
     position: absolute;
     overflow: visible;
-    width: 66px;
-    height: 64px;
-    left: 15px;
-    top: 16px;
+    width: 3.438vw;
+    height: 3.333vw;
+    left: 0.781vw;
+    top: 0.833vw;
 }
 #HOME {
-    left: 105px;
-    top: 34px;
+    left: 5.469vw;
+    top: 1.771vw;
     position: absolute;
     overflow: visible;
-    width: 91px;
+    width: 4.74vw;
     white-space: nowrap;
     text-align: left;
     font-family: Helvetica;
     font-style: normal;
     font-weight: normal;
-    font-size: 30px;
+    font-size: 1.563vw;
     color: rgba(255,255,255,1);
 }
 #SHOP {
-    left: 211px;
-    top: 34px;
+    left: 10.99vw;
+    top: 1.771vw;
     position: absolute;
     overflow: visible;
-    width: 86px;
+    width: 4.479vw;
     white-space: nowrap;
     text-align: left;
     font-family: Helvetica;
     font-style: normal;
     font-weight: normal;
-    font-size: 30px;
+    font-size: 1.563vw;
     color: rgba(255,255,255,1);
 }
 #BLOG {
-    left: 312px;
-    top: 34px;
+    left: 16.25vw;
+    top: 1.771vw;
     position: absolute;
     overflow: visible;
-    width: 84px;
+    width: 4.375vw;
     white-space: nowrap;
     text-align: left;
     font-family: Helvetica;
     font-style: normal;
     font-weight: normal;
-    font-size: 30px;
+    font-size: 1.563vw;
     color: rgba(255,255,255,1);
 }
 #CONTACT {
-    left: 411px;
-    top: 34px;
+    left: 21.406vw;
+    top: 1.771vw;
     position: absolute;
     overflow: visible;
-    width: 144px;
+    width: 7.5vw;
     white-space: nowrap;
     text-align: left;
     font-family: Helvetica;
     font-style: normal;
     font-weight: normal;
-    font-size: 30px;
+    font-size: 1.563vw;
     color: rgba(255,255,255,1);
 }
 #Rectangle_3 {
@@ -147,51 +147,51 @@
 .Rectangle_3 {
     position: absolute;
     overflow: visible;
-    width: 90px;
-    height: 8px;
-    left: 105px;
-    top: 64px;
+    width: 4.688vw;
+    height: 0.417vw;
+    left: 5.469vw;
+    top: 3.333vw;
 }
 #Schermafbeelding_2023-02-05_om_s {
     position: absolute;
-    width: 288px;
-    height: 373px;
-    left: 54px;
-    top: 871px;
+    width: 15vw;
+    height: 19.427vw;
+    left: 2.813vw;
+    top: 45.365vw;
     overflow: visible;
 }
 #POPULAR {
-    left: 115px;
-    top: 861px;
+    left: 5.99vw;
+    top: 44.844vw;
     position: absolute;
     overflow: visible;
-    width: 177px;
+    width: 9.219vw;
     white-space: nowrap;
     text-align: left;
     font-family: Helvetica;
     font-style: normal;
     font-weight: bold;
-    font-size: 36px;
+    font-size: 1.875vw;
     color: rgba(255,255,255,1);
 }
 #AQUANL {
-    left: 335px;
-    top: 303px;
+    left: 17.448vw;
+    top: 15.781vw;
     position: absolute;
     overflow: visible;
-    width: 1251px;
+    width: 65.156vw;
     white-space: nowrap;
     text-align: left;
     font-family: Mishafi Gold;
     font-style: normal;
     font-weight: normal;
-    font-size: 304px;
+    font-size: 15.833vw;
     color: rgba(255,255,255,1);
 }
 #Rectangle_4 {
     fill: rgba(43,43,43,1);
     stroke: rgba(255,255,255,1);
-    stroke-width: 10px;
+    stroke-width: 0.521vw;
     stroke-linejoin: miter;
     stroke-linecap: butt;
     stroke-miterlimit: 4;
@@ -200,23 +200,23 @@
 .Rectangle_4 {
     position: absolute;
     overflow: visible;
-    width: 261px;
-    height: 91px;
-    left: 830px;
-    top: 745px;
+    width: 13.594vw;
+    height: 4.74vw;
+    left: 43.229vw;
+    top: 38.802vw;
 }
 #SHOP_w {
-    left: 874px;
-    top: 755px;
+    left: 45.521vw;
+    top: 39.323vw;
     position: absolute;
     overflow: visible;
-    width: 174px;
+    width: 9.063vw;
     white-space: nowrap;
     text-align: left;
     font-family: Helvetica Neue;
     font-style: normal;
     font-weight: bold;
-    font-size: 61px;
+    font-size: 3.177vw;
     color: rgba(255,255,255,1);
 }
 #Rectangle_5 {
@@ -225,10 +225,10 @@
 .Rectangle_5 {
     position: absolute;
     overflow: visible;
-    width: 345px;
-    height: 394px;
-    left: 412px;
-    top: 836px;
+    width: 17.969vw;
+    height: 20.521vw;
+    left: 21.458vw;
+    top: 43.542vw;
 }
 #Rectangle_11 {
     fill: rgba(43,43,43,1);
@@ -236,45 +236,45 @@
 .Rectangle_11 {
     position: absolute;
     overflow: visible;
-    width: 343px;
-    height: 394px;
-    left: 792px;
-    top: 836px;
+    width: 17.865vw;
+    height: 20.521vw;
+    left: 41.25vw;
+    top: 43.542vw;
 }
 #Schermafbeelding_2023-02-05_om_z {
     position: absolute;
-    width: 289px;
-    height: 375px;
-    left: 431px;
-    top: 871px;
+    width: 15.052vw;
+    height: 19.531vw;
+    left: 22.448vw;
+    top: 45.365vw;
     overflow: visible;
 }
 #NEW_PLANT {
-    left: 474px;
-    top: 861px;
+    left: 24.688vw;
+    top: 44.844vw;
     position: absolute;
     overflow: visible;
-    width: 215px;
+    width: 11.198vw;
     white-space: nowrap;
     text-align: left;
     font-family: Helvetica;
     font-style: normal;
     font-weight: bold;
-    font-size: 36px;
+    font-size: 1.875vw;
     color: rgba(255,255,255,1);
 }
 #ALGAE_SCRUBBER {
-    left: 833px;
-    top: 858px;
+    left: 43.385vw;
+    top: 44.688vw;
     position: absolute;
     overflow: visible;
-    width: 256px;
+    width: 13.333vw;
     white-space: nowrap;
     text-align: left;
     font-family: Helvetica;
     font-style: normal;
     font-weight: bold;
-    font-size: 27px;
+    font-size: 1.406vw;
     color: rgba(255,255,255,1);
 }
 #Rectangle_6 {
@@ -283,15 +283,15 @@
 .Rectangle_6 {
     position: absolute;
     overflow: visible;
-    width: 1920px;
-    height: 364px;
-    left: 0px;
-    top: 1277px;
+    width: 100vw;
+    height: 18.958vw;
+    left: 0vw;
+    top: 66.51vw;
 }
 #Rectangle_7 {
     fill: rgba(43,43,43,1);
     stroke: rgba(255,255,255,1);
-    stroke-width: 10px;
+    stroke-width: 0.521vw;
     stroke-linejoin: miter;
     stroke-linecap: butt;
     stroke-miterlimit: 4;
@@ -300,37 +300,37 @@
 .Rectangle_7 {
     position: absolute;
     overflow: visible;
-    width: 261px;
-    height: 91px;
-    left: 830px;
-    top: 1232px;
+    width: 13.594vw;
+    height: 4.74vw;
+    left: 43.229vw;
+    top: 64.167vw;
 }
 #ABOUT {
-    left: 862px;
-    top: 1244px;
+    left: 44.896vw;
+    top: 64.792vw;
     position: absolute;
     overflow: visible;
-    width: 198px;
+    width: 10.313vw;
     white-space: nowrap;
     text-align: left;
     font-family: Helvetica Neue;
     font-style: normal;
     font-weight: bold;
-    font-size: 56px;
+    font-size: 2.917vw;
     color: rgba(255,255,255,1);
 }
 #Follow_us_on_social_media {
-    left: 218px;
-    top: 1569px;
+    left: 11.354vw;
+    top: 81.719vw;
     position: absolute;
     overflow: visible;
-    width: 294px;
+    width: 15.313vw;
     white-space: nowrap;
     text-align: left;
     font-family: Impact;
     font-style: normal;
     font-weight: normal;
-    font-size: 28px;
+    font-size: 1.458vw;
     color: rgba(255,255,255,1);
 }
 #Rectangle_8 {
@@ -339,10 +339,10 @@
 .Rectangle_8 {
     position: absolute;
     overflow: visible;
-    width: 46px;
-    height: 46px;
-    left: 32px;
-    top: 1562px;
+    width: 2.396vw;
+    height: 2.396vw;
+    left: 1.667vw;
+    top: 81.354vw;
 }
 #Rectangle_9 {
     fill: rgba(0,177,255,1);
@@ -350,10 +350,10 @@
 .Rectangle_9 {
     position: absolute;
     overflow: visible;
-    width: 46px;
-    height: 46px;
-    left: 93px;
-    top: 1562px;
+    width: 2.396vw;
+    height: 2.396vw;
+    left: 4.844vw;
+    top: 81.354vw;
 }
 #Rectangle_10_ {
     fill: url(#Rectangle_10_);
@@ -361,10 +361,10 @@
 .Rectangle_10_ {
     position: absolute;
     overflow: visible;
-    width: 46px;
-    height: 46px;
-    left: 154px;
-    top: 1562px;
+    width: 2.396vw;
+    height: 2.396vw;
+    left: 8.021vw;
+    top: 81.354vw;
 }
 #Polygon_1 {
     fill: rgba(255,255,255,1);
@@ -372,17 +372,17 @@
 .Polygon_1 {
     overflow: visible;
     position: absolute;
-    width: 18px;
-    height: 15px;
+    width: 0.938vw;
+    height: 0.781vw;
     transform: matrix(1,0,0,1,47,1577.5) rotate(90deg);
     transform-origin: center;
-    left: 0px;
-    top: 0px;
+    left: 0vw;
+    top: 0vw;
 }
 #Ellipse_1 {
     fill: transparent;
     stroke: rgba(255,255,255,1);
-    stroke-width: 2px;
+    stroke-width: 0.104vw;
     stroke-linejoin: miter;
     stroke-linecap: butt;
     stroke-miterlimit: 4;
@@ -391,10 +391,10 @@
 .Ellipse_1 {
     position: absolute;
     overflow: visible;
-    width: 21px;
-    height: 21px;
-    left: 167px;
-    top: 1575px;
+    width: 1.094vw;
+    height: 1.094vw;
+    left: 8.698vw;
+    top: 82.031vw;
 }
 #Ellipse_2 {
     fill: rgba(255,255,255,1);
@@ -402,10 +402,10 @@
 .Ellipse_2 {
     position: absolute;
     overflow: visible;
-    width: 22px;
-    height: 22px;
-    left: 105px;
-    top: 1575px;
+    width: 1.146vw;
+    height: 1.146vw;
+    left: 5.469vw;
+    top: 82.031vw;
 }
 #Polygon_2 {
     fill: rgba(255,255,255,1);
@@ -413,12 +413,12 @@
 .Polygon_2 {
     overflow: visible;
     position: absolute;
-    width: 10px;
-    height: 8px;
+    width: 0.521vw;
+    height: 0.417vw;
     transform: matrix(1,0,0,1,120,1572.9999) rotate(45deg);
     transform-origin: center;
-    left: 0px;
-    top: 0px;
+    left: 0vw;
+    top: 0vw;
 }
 #Polygon_3 {
     fill: rgba(255,255,255,1);
@@ -426,12 +426,12 @@
 .Polygon_3 {
     overflow: visible;
     position: absolute;
-    width: 10px;
-    height: 8px;
+    width: 0.521vw;
+    height: 0.417vw;
     transform: matrix(1,0,0,1,103,1593) rotate(213deg);
     transform-origin: center;
-    left: 0px;
-    top: 0px;
+    left: 0vw;
+    top: 0vw;
 }
 #Polygon_4 {
     fill: rgba(255,255,255,1);
@@ -439,17 +439,17 @@
 .Polygon_4 {
     overflow: visible;
     position: absolute;
-    width: 10px;
-    height: 8px;
+    width: 0.521vw;
+    height: 0.417vw;
     transform: matrix(1,0,0,1,99,1589) rotate(251deg);
     transform-origin: center;
-    left: 0px;
-    top: 0px;
+    left: 0vw;
+    top: 0vw;
 }
 #Ellipse_3 {
     fill: transparent;
     stroke: rgba(255,255,255,1);
-    stroke-width: 5px;
+    stroke-width: 0.26vw;
     stroke-linejoin: miter;
     stroke-linecap: butt;
     stroke-miterlimit: 4;
@@ -458,15 +458,15 @@
 .Ellipse_3 {
     position: absolute;
     overflow: visible;
-    width: 20px;
-    height: 20px;
-    left: 42px;
-    top: 27px;
+    width: 1.042vw;
+    height: 1.042vw;
+    left: 2.188vw;
+    top: 1.406vw;
 }
 #Ellipse_4 {
     fill: transparent;
     stroke: rgba(255,255,255,1);
-    stroke-width: 5px;
+    stroke-width: 0.26vw;
     stroke-linejoin: miter;
     stroke-linecap: butt;
     stroke-miterlimit: 4;
@@ -475,15 +475,15 @@
 .Ellipse_4 {
     position: absolute;
     overflow: visible;
-    width: 28px;
-    height: 28px;
-    left: 37px;
-    top: 25px;
+    width: 1.458vw;
+    height: 1.458vw;
+    left: 1.927vw;
+    top: 1.302vw;
 }
 #Ellipse_6 {
     fill: transparent;
     stroke: rgba(255,255,255,1);
-    stroke-width: 5px;
+    stroke-width: 0.26vw;
     stroke-linejoin: miter;
     stroke-linecap: butt;
     stroke-miterlimit: 4;
@@ -492,15 +492,15 @@
 .Ellipse_6 {
     position: absolute;
     overflow: visible;
-    width: 34px;
-    height: 34px;
-    left: 32px;
-    top: 26px;
+    width: 1.771vw;
+    height: 1.771vw;
+    left: 1.667vw;
+    top: 1.354vw;
 }
 #Ellipse_5 {
     fill: transparent;
     stroke: rgba(255,255,255,1);
-    stroke-width: 5px;
+    stroke-width: 0.26vw;
     stroke-linejoin: miter;
     stroke-linecap: butt;
     stroke-miterlimit: 4;
@@ -509,10 +509,10 @@
 .Ellipse_5 {
     position: absolute;
     overflow: visible;
-    width: 44px;
-    height: 44px;
-    left: 26px;
-    top: 24px;
+    width: 2.292vw;
+    height: 2.292vw;
+    left: 1.354vw;
+    top: 1.25vw;
 }
 #Polygon_5 {
     fill: rgba(255,255,255,1);
@@ -520,59 +520,59 @@
 .Polygon_5 {
     overflow: visible;
     position: absolute;
-    width: 16px;
-    height: 12px;
+    width: 0.833vw;
+    height: 0.625vw;
     transform: matrix(1,0,0,1,27.9282,61) rotate(25deg);
     transform-origin: center;
-    left: 0px;
-    top: 0px;
+    left: 0vw;
+    top: 0vw;
 }
 #SUPPORT {
-    left: 32px;
-    top: 1311px;
+    left: 1.667vw;
+    top: 68.281vw;
     position: absolute;
     overflow: visible;
-    width: 124px;
+    width: 6.458vw;
     white-space: nowrap;
     text-align: left;
     font-family: Impact;
     font-style: normal;
     font-weight: normal;
-    font-size: 34px;
+    font-size: 1.771vw;
     color: rgba(255,255,255,1);
 }
 #General_Questions {
-    left: 57px;
-    top: 1366px;
+    left: 2.969vw;
+    top: 71.146vw;
     position: absolute;
     overflow: visible;
-    width: 209px;
+    width: 10.885vw;
     white-space: nowrap;
     text-align: left;
     font-family: Helvetica;
     font-style: normal;
     font-weight: normal;
-    font-size: 25px;
+    font-size: 1.302vw;
     color: rgba(255,255,255,1);
 }
 #Shipping {
-    left: 57px;
-    top: 1403px;
+    left: 2.969vw;
+    top: 73.073vw;
     position: absolute;
     overflow: visible;
-    width: 98px;
+    width: 5.104vw;
     white-space: nowrap;
     text-align: left;
     font-family: Helvetica;
     font-style: normal;
     font-weight: normal;
-    font-size: 25px;
+    font-size: 1.302vw;
     color: rgba(255,255,255,1);
 }
 #Polygon_6 {
     fill: transparent;
     stroke: rgba(255,255,255,1);
-    stroke-width: 2px;
+    stroke-width: 0.104vw;
     stroke-linejoin: miter;
     stroke-linecap: butt;
     stroke-miterlimit: 4;
@@ -581,17 +581,17 @@
 .Polygon_6 {
     overflow: visible;
     position: absolute;
-    width: 17px;
-    height: 15px;
+    width: 0.885vw;
+    height: 0.781vw;
     transform: matrix(1,0,0,1,35,1369) rotate(90deg);
     transform-origin: center;
-    left: 0px;
-    top: 0px;
+    left: 0vw;
+    top: 0vw;
 }
 #Polygon_7 {
     fill: transparent;
     stroke: rgba(255,255,255,1);
-    stroke-width: 2px;
+    stroke-width: 0.104vw;
     stroke-linejoin: miter;
     stroke-linecap: butt;
     stroke-miterlimit: 4;
@@ -600,31 +600,31 @@
 .Polygon_7 {
     overflow: visible;
     position: absolute;
-    width: 17px;
-    height: 15px;
+    width: 0.885vw;
+    height: 0.781vw;
     transform: matrix(1,0,0,1,35,1406) rotate(90deg);
     transform-origin: center;
-    left: 0px;
-    top: 0px;
+    left: 0vw;
+    top: 0vw;
 }
 #Returns {
-    left: 57px;
-    top: 1440px;
+    left: 2.969vw;
+    top: 75vw;
     position: absolute;
     overflow: visible;
-    width: 89px;
+    width: 4.635vw;
     white-space: nowrap;
     text-align: left;
     font-family: Helvetica;
     font-style: normal;
     font-weight: normal;
-    font-size: 25px;
+    font-size: 1.302vw;
     color: rgba(255,255,255,1);
 }
 #Polygon_8 {
     fill: transparent;
     stroke: rgba(255,255,255,1);
-    stroke-width: 2px;
+    stroke-width: 0.104vw;
     stroke-linejoin: miter;
     stroke-linecap: butt;
     stroke-miterlimit: 4;
@@ -633,31 +633,31 @@
 .Polygon_8 {
     overflow: visible;
     position: absolute;
-    width: 17px;
-    height: 15px;
+    width: 0.885vw;
+    height: 0.781vw;
     transform: matrix(1,0,0,1,35,1443) rotate(90deg);
     transform-origin: center;
-    left: 0px;
-    top: 0px;
+    left: 0vw;
+    top: 0vw;
 }
 #Payments {
-    left: 57px;
-    top: 1477px;
+    left: 2.969vw;
+    top: 76.927vw;
     position: absolute;
     overflow: visible;
-    width: 112px;
+    width: 5.833vw;
     white-space: nowrap;
     text-align: left;
     font-family: Helvetica;
     font-style: normal;
     font-weight: normal;
-    font-size: 25px;
+    font-size: 1.302vw;
     color: rgba(255,255,255,1);
 }
 #Polygon_9 {
     fill: transparent;
     stroke: rgba(255,255,255,1);
-    stroke-width: 2px;
+    stroke-width: 0.104vw;
     stroke-linejoin: miter;
     stroke-linecap: butt;
     stroke-miterlimit: 4;
@@ -666,24 +666,24 @@
 .Polygon_9 {
     overflow: visible;
     position: absolute;
-    width: 17px;
-    height: 15px;
+    width: 0.885vw;
+    height: 0.781vw;
     transform: matrix(1,0,0,1,35,1480) rotate(90deg);
     transform-origin: center;
-    left: 0px;
-    top: 0px;
+    left: 0vw;
+    top: 0vw;
 }
 #Notes_3d_printed_Has_a_cloth_I {
-    left: 841px;
-    top: 896px;
+    left: 43.802vw;
+    top: 46.667vw;
     position: absolute;
     overflow: visible;
-    width: 255px;
+    width: 13.281vw;
     white-space: nowrap;
     text-align: left;
     font-family: Helvetica;
     font-style: normal;
     font-weight: bold;
-    font-size: 36px;
+    font-size: 1.875vw;
     color: rgba(255,255,255,1);
 }

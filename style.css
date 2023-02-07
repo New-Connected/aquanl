@@ -161,11 +161,12 @@ body {
     height: 20.521vw;
     left: 1.771vw;
     top: 43.542vw;
+    border-radius: 25px;
     overflow: visible;
 }
 #POPULAR {
     left: 5.99vw;
-    top: 44.844vw;
+    top: 52.844vw;
     position: absolute;
     overflow: visible;
     width: 9.219vw;

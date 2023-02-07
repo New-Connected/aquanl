@@ -141,7 +141,7 @@ body {
     transition: left 250ms;
 }
 #BLOG:hover ~ .Rectangle_3 {
-    left: 10.7vw;
+    left: 16.1vw;
 }
 #CONTACT {
     left: 21.406vw;
@@ -159,7 +159,7 @@ body {
     transition: left 250ms;
 }
 #CONTACT:hover ~ .Rectangle_3 {
-    left: 10.7vw;
+    left: 22.7vw;
 }
 #Rectangle_3 {
     fill: rgba(255,255,255,1);

@@ -102,7 +102,6 @@ body {
     font-size: 1.563vw;
     color: rgba(255,255,255,1);
     background-color: transparent;
-    transition: left 250ms;
 }
 #HOME:hover ~ .Rectangle_3 {
     left: 5.469vw;
@@ -120,7 +119,6 @@ body {
     font-weight: normal;
     font-size: 1.563vw;
     color: rgba(255,255,255,1);
-    transition: left 250ms;
 }
 #SHOP:hover ~ .Rectangle_3 {
     left: 10.7vw;
@@ -138,7 +136,6 @@ body {
     font-weight: normal;
     font-size: 1.563vw;
     color: rgba(255,255,255,1);
-    transition: left 250ms;
 }
 #BLOG:hover ~ .Rectangle_3 {
     left: 16.1vw;
@@ -156,7 +153,6 @@ body {
     font-weight: normal;
     font-size: 1.563vw;
     color: rgba(255,255,255,1);
-    transition: left 250ms;
 }
 #CONTACT:hover ~ .Rectangle_3 {
     left: 22.7vw;
@@ -171,6 +167,7 @@ body {
     height: 0.417vw;
     left: 5.469vw;
     top: 3.333vw;
+    transition: left 250ms;
 }
 #Schermafbeelding_2023-02-05_om_s {
     position: absolute;

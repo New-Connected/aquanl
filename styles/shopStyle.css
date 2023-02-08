@@ -152,10 +152,10 @@ body {
     left: 1.771vw;
     top: 7.76vw;
     border-radius: 3vw;
-    transition: all 150ms ease-in-out;
+    transition: opacity 150ms ease-in-out;
 }
 #plant2:hover {
-    opacity: 0;
+    opacity: 1;
 }
 #Rectangle_2 {
     fill: rgba(43,43,43,1);

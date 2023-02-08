@@ -86,6 +86,9 @@ body {
     color: rgba(255,255,255,1);
     background-color: transparent;
 }
+#HOME:hover ~ .Rectangle_3 {
+    left: 5.469vw;
+}
 #SHOP {
     left: 10.99vw;
     top: 1.771vw;
@@ -100,6 +103,9 @@ body {
     font-size: 1.563vw;
     color: rgba(255,255,255,1);
     background-color: transparent;
+}
+#SHOP:hover ~ .Rectangle_3 {
+    left: 10.7vw;
 }
 #BLOG {
     left: 16.25vw;
@@ -116,6 +122,9 @@ body {
     color: rgba(255,255,255,1);
     background-color: transparent;
 }
+#BLOG:hover ~ .Rectangle_3 {
+    left: 16.1vw;
+}
 #CONTACT {
     left: 21.406vw;
     top: 1.771vw;
@@ -131,6 +140,9 @@ body {
     color: rgba(255,255,255,1);
     background-color: transparent;
 }
+#CONTACT:hover ~ .Rectangle_3 {
+    left: 22.7vw;
+}
 #Rectangle_3 {
     fill: rgba(255,255,255,1);
 }
@@ -141,6 +153,7 @@ body {
     height: 0.417vw;
     left: 5.469vw;
     top: 3.333vw;
+    transition: left 250ms ease-in-out;
 }
 #plant2 {
     opacity: 0.556;

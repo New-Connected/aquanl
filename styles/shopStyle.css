@@ -145,7 +145,7 @@ body {
     height: 20.521vw;
     left: 1.667vw;
     top: 7.76vw;
-    overflow: visible;
+    border-radius: 3vw;
 }
 #Rectangle_4 {
     fill: rgba(43,43,43,1);
@@ -474,7 +474,7 @@ body {
     height: 20.521vw;
     left: 21.458vw;
     top: 7.76vw;
-    overflow: visible;
+    border-radius: 3vw;
 }
 #Shipping {
     left: 2.969vw;
@@ -640,7 +640,7 @@ body {
     height: 20.521vw;
     left: 40.99vw;
     top: 7.76vw;
-    overflow: visible;
+    border-radius: 3vw;
 }
 #Java_Moss {
     left: 43.229vw;

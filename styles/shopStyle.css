@@ -145,7 +145,6 @@ body {
     transition: left 250ms ease-in-out;
 }
 #plant2 {
-    opacity: 0.556;
     position: absolute;
     width: 17.917vw;
     height: 20.521vw;

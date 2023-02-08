@@ -164,6 +164,9 @@ body {
     top: 7.76vw;
     border-radius: 3vw;
 }
+#plant2:hover ~ #Rectangle_2 {
+    fill: black;
+}
 #Rectangle_4 {
     fill: rgba(43,43,43,1);
     stroke: rgba(255,255,255,1);

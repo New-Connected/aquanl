@@ -152,9 +152,6 @@ body {
     top: 7.76vw;
     border-radius: 3vw;
 }
-#plant2:hover {
-    border-radius: 10vw;
-}
 #plant2:hover ~ #Rectangle_2 {
     fill: black;
 }

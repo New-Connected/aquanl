@@ -283,10 +283,10 @@
     position: absolute;
     width: 0.938vw;
     height: 0.781vw;
-    transform: matrix(1,0,0,1,47,1380.5) rotate(90deg);
+    transform: matrix(1,0,0,1,0,0) rotate(90deg);
     transform-origin: center;
-    left: 0vw;
-    top: 0vw;
+    left: 47px;
+    top: 1380.5px;
 }
 #Ellipse_1 {
     fill: transparent;
@@ -324,10 +324,10 @@
     position: absolute;
     width: 0.521vw;
     height: 0.417vw;
-    transform: matrix(1,0,0,1,120,1375.9999) rotate(45deg);
+    transform: matrix(1,0,0,1,0,0) rotate(45deg);
     transform-origin: center;
-    left: 0vw;
-    top: 0vw;
+    left: 6.25vw;
+    top: 71.667vw;
 }
 #Polygon_3 {
     fill: rgba(255,255,255,1);
@@ -337,10 +337,10 @@
     position: absolute;
     width: 0.521vw;
     height: 0.417vw;
-    transform: matrix(1,0,0,1,103,1396) rotate(213deg);
+    transform: matrix(1,0,0,1,0,0) rotate(213deg);
     transform-origin: center;
-    left: 0vw;
-    top: 0vw;
+    left: 5.365vw;
+    top: 72.708vw;
 }
 #Polygon_4 {
     fill: rgba(255,255,255,1);
@@ -350,10 +350,10 @@
     position: absolute;
     width: 0.521vw;
     height: 0.417vw;
-    transform: matrix(1,0,0,1,99,1392) rotate(251deg);
+    transform: matrix(1,0,0,1,0,0) rotate(251deg);
     transform-origin: center;
-    left: 0vw;
-    top: 0vw;
+    left: 5.156vw;
+    top: 72.5vw;
 }
 #Ellipse_3 {
     fill: transparent;
@@ -431,10 +431,10 @@
     position: absolute;
     width: 0.833vw;
     height: 0.625vw;
-    transform: matrix(1,0,0,1,27.9282,61) rotate(25deg);
+    transform: matrix(1,0,0,1,0,0) rotate(25deg);
     transform-origin: center;
-    left: 0vw;
-    top: 0vw;
+    left: 1.455vw;
+    top: 3.177vw;
 }
 #SUPPORT {
     left: 1.667vw;
@@ -501,10 +501,10 @@
     position: absolute;
     width: 0.885vw;
     height: 0.781vw;
-    transform: matrix(1,0,0,1,35,1172) rotate(90deg);
+    transform: matrix(1,0,0,1,0,0) rotate(90deg);
     transform-origin: center;
-    left: 0vw;
-    top: 0vw;
+    left: 1.823vw;
+    top: 61.042vw;
 }
 #Polygon_7 {
     fill: transparent;
@@ -520,10 +520,10 @@
     position: absolute;
     width: 0.885vw;
     height: 0.781vw;
-    transform: matrix(1,0,0,1,35,1209) rotate(90deg);
+    transform: matrix(1,0,0,1,0,0) rotate(90deg);
     transform-origin: center;
-    left: 0vw;
-    top: 0vw;
+    left: 1.823vw;
+    top: 62.969vw;
 }
 #Returns {
     left: 2.969vw;
@@ -553,10 +553,10 @@
     position: absolute;
     width: 0.885vw;
     height: 0.781vw;
-    transform: matrix(1,0,0,1,35,1246) rotate(90deg);
+    transform: matrix(1,0,0,1,0,0) rotate(90deg);
     transform-origin: center;
-    left: 0vw;
-    top: 0vw;
+    left: 1.823vw;
+    top: 64.896vw;
 }
 #Payments {
     left: 2.969vw;
@@ -586,10 +586,10 @@
     position: absolute;
     width: 0.885vw;
     height: 0.781vw;
-    transform: matrix(1,0,0,1,35,1283) rotate(90deg);
+    transform: matrix(1,0,0,1,0,0) rotate(90deg);
     transform-origin: center;
-    left: 0vw;
-    top: 0vw;
+    left: 1.823vw;
+    top: 66.823vw;
 }
 #Anubias_Nana {
     left: 21.927vw;

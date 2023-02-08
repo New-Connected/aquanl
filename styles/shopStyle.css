@@ -38,17 +38,6 @@ body {
     left: 0vw;
     top: 0vw;
 }
-#Rectangle_2 {
-    fill: rgba(43,43,43,1);
-}
-.Rectangle_2 {
-    position: absolute;
-    overflow: visible;
-    width: 17.917vw;
-    height: 20.521vw;
-    left: 1.771vw;
-    top: 7.76vw;
-}
 #Schermafbeelding_2023-02-05_om {
     fill: rgba(255,255,255,1);
 }
@@ -166,6 +155,17 @@ body {
 }
 #plant2:hover ~ #Rectangle_2 {
     fill: black;
+}
+#Rectangle_2 {
+    fill: rgba(43,43,43,1);
+}
+.Rectangle_2 {
+    position: absolute;
+    overflow: visible;
+    width: 17.917vw;
+    height: 20.521vw;
+    left: 1.771vw;
+    top: 7.76vw;
 }
 #Rectangle_4 {
     fill: rgba(43,43,43,1);

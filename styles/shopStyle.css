@@ -152,8 +152,8 @@ body {
     top: 7.76vw;
     border-radius: 3vw;
 }
-#plant2:hover ~ #Rectangle_2 {
-    fill: black;
+#plant2:hover ~ .Rectangle_2 {
+    width: 20.917vw;
 }
 #Rectangle_2 {
     fill: rgba(43,43,43,1);

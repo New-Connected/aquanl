@@ -1,0 +1,752 @@
+.mediaViewInfo {
+    --web-view-name: Web 1920 – 3;
+    --web-view-id: Web_1920__3;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+:root {
+    --web-view-ids: Web_1920__3;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+#Web_1920__3 {
+    position: absolute;
+    width: 1920px;
+    height: 1441px;
+    background-color: rgba(255,255,255,1);
+    overflow: hidden;
+    --web-view-name: Web 1920 – 3;
+    --web-view-id: Web_1920__3;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+#Rectangle_1 {
+    fill: rgba(43,43,43,1);
+}
+.Rectangle_1 {
+    position: absolute;
+    overflow: visible;
+    width: 1920px;
+    height: 96px;
+    left: 0px;
+    top: 0px;
+}
+#Rectangle_2 {
+    fill: rgba(43,43,43,1);
+}
+.Rectangle_2 {
+    position: absolute;
+    overflow: visible;
+    width: 930px;
+    height: 878px;
+    left: 30px;
+    top: 149px;
+}
+#Schermafbeelding_2023-02-05_om {
+    fill: rgba(255,255,255,1);
+}
+.Schermafbeelding_2023-02-05_om {
+    position: absolute;
+    overflow: visible;
+    width: 72px;
+    height: 72px;
+    left: 12px;
+    top: 12px;
+}
+#Schermafbeelding_2023-02-05_om_m {
+    fill: url(#Schermafbeelding_2023-02-05_om_m);
+}
+.Schermafbeelding_2023-02-05_om_m {
+    position: absolute;
+    overflow: visible;
+    width: 66px;
+    height: 64px;
+    left: 15px;
+    top: 16px;
+}
+#HOME {
+    left: 105px;
+    top: 34px;
+    position: absolute;
+    overflow: visible;
+    width: 91px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    color: rgba(255,255,255,1);
+}
+#SHOP {
+    left: 211px;
+    top: 34px;
+    position: absolute;
+    overflow: visible;
+    width: 86px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    color: rgba(255,255,255,1);
+}
+#BLOG {
+    left: 312px;
+    top: 34px;
+    position: absolute;
+    overflow: visible;
+    width: 84px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    color: rgba(255,255,255,1);
+}
+#CONTACT {
+    left: 411px;
+    top: 34px;
+    position: absolute;
+    overflow: visible;
+    width: 144px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    color: rgba(255,255,255,1);
+}
+#Rectangle_3 {
+    fill: rgba(255,255,255,1);
+}
+.Rectangle_3 {
+    position: absolute;
+    overflow: visible;
+    width: 90px;
+    height: 8px;
+    left: 105px;
+    top: 64px;
+}
+#plant2 {
+    position: absolute;
+    width: 930px;
+    height: 878px;
+    left: 30px;
+    top: 149px;
+    overflow: visible;
+}
+#Rectangle_4 {
+    fill: rgba(43,43,43,1);
+    stroke: rgba(255,255,255,1);
+    stroke-width: 10px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_4 {
+    position: absolute;
+    overflow: visible;
+    width: 261px;
+    height: 75px;
+    left: 830px;
+    top: 59px;
+}
+#PRODUCT {
+    left: 863px;
+    top: 74px;
+    position: absolute;
+    overflow: visible;
+    width: 196px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Helvetica Neue;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 39px;
+    color: rgba(255,255,255,1);
+}
+#Rectangle_6 {
+    fill: rgba(43,43,43,1);
+}
+.Rectangle_6 {
+    position: absolute;
+    overflow: visible;
+    width: 1920px;
+    height: 364px;
+    left: 0px;
+    top: 1080px;
+}
+#Rectangle_7 {
+    fill: rgba(43,43,43,1);
+    stroke: rgba(255,255,255,1);
+    stroke-width: 10px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_7 {
+    position: absolute;
+    overflow: visible;
+    width: 201px;
+    height: 75px;
+    left: 860px;
+    top: 1043px;
+}
+#ABOUT {
+    left: 892px;
+    top: 1058px;
+    position: absolute;
+    overflow: visible;
+    width: 138px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Helvetica Neue;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 39px;
+    color: rgba(255,255,255,1);
+}
+#Follow_us_on_social_media {
+    left: 218px;
+    top: 1372px;
+    position: absolute;
+    overflow: visible;
+    width: 294px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Impact;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(255,255,255,1);
+}
+#Rectangle_8 {
+    fill: rgba(255,0,0,1);
+}
+.Rectangle_8 {
+    position: absolute;
+    overflow: visible;
+    width: 46px;
+    height: 46px;
+    left: 32px;
+    top: 1365px;
+}
+#Rectangle_9 {
+    fill: rgba(0,177,255,1);
+}
+.Rectangle_9 {
+    position: absolute;
+    overflow: visible;
+    width: 46px;
+    height: 46px;
+    left: 93px;
+    top: 1365px;
+}
+#Rectangle_10_ {
+    fill: url(#Rectangle_10_);
+}
+.Rectangle_10_ {
+    position: absolute;
+    overflow: visible;
+    width: 46px;
+    height: 46px;
+    left: 154px;
+    top: 1365px;
+}
+#Polygon_1 {
+    fill: rgba(255,255,255,1);
+}
+.Polygon_1 {
+    overflow: visible;
+    position: absolute;
+    width: 18px;
+    height: 15px;
+    transform: matrix(1,0,0,1,47,1380.5) rotate(90deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#Ellipse_1 {
+    fill: transparent;
+    stroke: rgba(255,255,255,1);
+    stroke-width: 2px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Ellipse_1 {
+    position: absolute;
+    overflow: visible;
+    width: 21px;
+    height: 21px;
+    left: 167px;
+    top: 1378px;
+}
+#Ellipse_2 {
+    fill: rgba(255,255,255,1);
+}
+.Ellipse_2 {
+    position: absolute;
+    overflow: visible;
+    width: 22px;
+    height: 22px;
+    left: 105px;
+    top: 1378px;
+}
+#Polygon_2 {
+    fill: rgba(255,255,255,1);
+}
+.Polygon_2 {
+    overflow: visible;
+    position: absolute;
+    width: 10px;
+    height: 8px;
+    transform: matrix(1,0,0,1,120,1375.9999) rotate(45deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#Polygon_3 {
+    fill: rgba(255,255,255,1);
+}
+.Polygon_3 {
+    overflow: visible;
+    position: absolute;
+    width: 10px;
+    height: 8px;
+    transform: matrix(1,0,0,1,103,1396) rotate(213deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#Polygon_4 {
+    fill: rgba(255,255,255,1);
+}
+.Polygon_4 {
+    overflow: visible;
+    position: absolute;
+    width: 10px;
+    height: 8px;
+    transform: matrix(1,0,0,1,99,1392) rotate(251deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#Ellipse_3 {
+    fill: transparent;
+    stroke: rgba(255,255,255,1);
+    stroke-width: 5px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Ellipse_3 {
+    position: absolute;
+    overflow: visible;
+    width: 20px;
+    height: 20px;
+    left: 42px;
+    top: 27px;
+}
+#Ellipse_4 {
+    fill: transparent;
+    stroke: rgba(255,255,255,1);
+    stroke-width: 5px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Ellipse_4 {
+    position: absolute;
+    overflow: visible;
+    width: 28px;
+    height: 28px;
+    left: 37px;
+    top: 25px;
+}
+#Ellipse_6 {
+    fill: transparent;
+    stroke: rgba(255,255,255,1);
+    stroke-width: 5px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Ellipse_6 {
+    position: absolute;
+    overflow: visible;
+    width: 34px;
+    height: 34px;
+    left: 32px;
+    top: 26px;
+}
+#Ellipse_5 {
+    fill: transparent;
+    stroke: rgba(255,255,255,1);
+    stroke-width: 5px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Ellipse_5 {
+    position: absolute;
+    overflow: visible;
+    width: 44px;
+    height: 44px;
+    left: 26px;
+    top: 24px;
+}
+#Polygon_5 {
+    fill: rgba(255,255,255,1);
+}
+.Polygon_5 {
+    overflow: visible;
+    position: absolute;
+    width: 16px;
+    height: 12px;
+    transform: matrix(1,0,0,1,27.9282,61) rotate(25deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#SUPPORT {
+    left: 32px;
+    top: 1114px;
+    position: absolute;
+    overflow: visible;
+    width: 124px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Impact;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 34px;
+    color: rgba(255,255,255,1);
+}
+#General_Questions {
+    left: 57px;
+    top: 1169px;
+    position: absolute;
+    overflow: visible;
+    width: 209px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(255,255,255,1);
+}
+#Shipping {
+    left: 57px;
+    top: 1206px;
+    position: absolute;
+    overflow: visible;
+    width: 98px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(255,255,255,1);
+}
+#Polygon_6 {
+    fill: transparent;
+    stroke: rgba(255,255,255,1);
+    stroke-width: 2px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Polygon_6 {
+    overflow: visible;
+    position: absolute;
+    width: 17px;
+    height: 15px;
+    transform: matrix(1,0,0,1,35,1172) rotate(90deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#Polygon_7 {
+    fill: transparent;
+    stroke: rgba(255,255,255,1);
+    stroke-width: 2px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Polygon_7 {
+    overflow: visible;
+    position: absolute;
+    width: 17px;
+    height: 15px;
+    transform: matrix(1,0,0,1,35,1209) rotate(90deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#Returns {
+    left: 57px;
+    top: 1243px;
+    position: absolute;
+    overflow: visible;
+    width: 89px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(255,255,255,1);
+}
+#Polygon_8 {
+    fill: transparent;
+    stroke: rgba(255,255,255,1);
+    stroke-width: 2px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Polygon_8 {
+    overflow: visible;
+    position: absolute;
+    width: 17px;
+    height: 15px;
+    transform: matrix(1,0,0,1,35,1246) rotate(90deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#Payments {
+    left: 57px;
+    top: 1280px;
+    position: absolute;
+    overflow: visible;
+    width: 112px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(255,255,255,1);
+}
+#Polygon_9 {
+    fill: transparent;
+    stroke: rgba(255,255,255,1);
+    stroke-width: 2px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Polygon_9 {
+    overflow: visible;
+    position: absolute;
+    width: 17px;
+    height: 15px;
+    transform: matrix(1,0,0,1,35,1283) rotate(90deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#Java_Fern_Leptochilus_Pteropus {
+    left: 1091px;
+    top: 227px;
+    position: absolute;
+    overflow: visible;
+    width: 512px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 50px;
+    color: rgba(43,43,43,1);
+}
+#Line_1 {
+    fill: transparent;
+    stroke: rgba(0,0,0,1);
+    stroke-width: 4px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Line_1 {
+    overflow: visible;
+    position: absolute;
+    width: 719.5px;
+    height: 4px;
+    left: 1091px;
+    top: 360.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#n_299 {
+    left: 1091px;
+    top: 384px;
+    position: absolute;
+    overflow: visible;
+    width: 244px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 82px;
+    color: rgba(43,43,43,1);
+}
+#Stock_27 {
+    left: 1580px;
+    top: 400px;
+    position: absolute;
+    overflow: visible;
+    width: 223px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 50px;
+    color: rgba(43,43,43,1);
+}
+#Line_2 {
+    fill: transparent;
+    stroke: rgba(0,0,0,1);
+    stroke-width: 4px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Line_2 {
+    overflow: visible;
+    position: absolute;
+    width: 719.5px;
+    height: 4px;
+    left: 1091.5px;
+    top: 473.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_12 {
+    fill: rgba(43,43,43,1);
+}
+.Rectangle_12 {
+    position: absolute;
+    overflow: visible;
+    width: 231px;
+    height: 75px;
+    left: 1091.5px;
+    top: 916px;
+}
+#Order {
+    left: 1139.5px;
+    top: 929px;
+    position: absolute;
+    overflow: visible;
+    width: 137px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 50px;
+    color: rgba(255,255,255,1);
+}
+#Amount {
+    left: 1485.5px;
+    top: 929px;
+    position: absolute;
+    overflow: visible;
+    width: 206px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 50px;
+    color: rgba(43,43,43,1);
+}
+#Rectangle_13 {
+    fill: rgba(43,43,43,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_13 {
+    position: absolute;
+    overflow: visible;
+    width: 108px;
+    height: 75px;
+    left: 1702.5px;
+    top: 916px;
+}
+#n_ {
+    left: 1742.5px;
+    top: 929px;
+    position: absolute;
+    overflow: visible;
+    width: 29px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 50px;
+    color: rgba(255,255,255,1);
+}
+#Line_3 {
+    fill: transparent;
+    stroke: rgba(0,0,0,1);
+    stroke-width: 4px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Line_3 {
+    overflow: visible;
+    position: absolute;
+    width: 719.5px;
+    height: 4px;
+    left: 1091.5px;
+    top: 888.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#The_java_fern_is_a_beautiful_p {
+    left: 1127px;
+    top: 524px;
+    position: absolute;
+    overflow: visible;
+    width: 590px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 38px;
+    color: rgba(43,43,43,1);
+}

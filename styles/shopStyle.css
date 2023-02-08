@@ -84,6 +84,7 @@ body {
     font-weight: normal;
     font-size: 1.563vw;
     color: rgba(255,255,255,1);
+    background-color: transparent;
 }
 #SHOP {
     left: 10.99vw;
@@ -98,6 +99,7 @@ body {
     font-weight: normal;
     font-size: 1.563vw;
     color: rgba(255,255,255,1);
+    background-color: transparent;
 }
 #BLOG {
     left: 16.25vw;
@@ -112,6 +114,7 @@ body {
     font-weight: normal;
     font-size: 1.563vw;
     color: rgba(255,255,255,1);
+    background-color: transparent;
 }
 #CONTACT {
     left: 21.406vw;
@@ -126,6 +129,7 @@ body {
     font-weight: normal;
     font-size: 1.563vw;
     color: rgba(255,255,255,1);
+    background-color: transparent;
 }
 #Rectangle_3 {
     fill: rgba(255,255,255,1);

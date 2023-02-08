@@ -496,6 +496,10 @@ body {
     left: 21.458vw;
     top: 7.76vw;
     border-radius: 3vw;
+    transition: opacity 150ms ease-in-out;
+}
+#plant3:hover {
+    opacity: 1;
 }
 #Shipping {
     left: 2.969vw;
@@ -662,6 +666,10 @@ body {
     left: 40.99vw;
     top: 7.76vw;
     border-radius: 3vw;
+    transition: opacity 150ms ease-in-out;
+}
+#plant4:hover {
+    opacity: 1;
 }
 #Java_Moss {
     left: 43.229vw;

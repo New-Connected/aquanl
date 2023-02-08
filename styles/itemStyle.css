@@ -81,6 +81,10 @@
     font-weight: normal;
     font-size: 1.563vw;
     color: rgba(255,255,255,1);
+    background-color: transparent;
+}
+#HOME:hover ~ .Rectangle_3 {
+    left: 5.469vw;
 }
 #SHOP {
     left: 10.99vw;
@@ -95,6 +99,10 @@
     font-weight: normal;
     font-size: 1.563vw;
     color: rgba(255,255,255,1);
+    background-color: transparent;
+}
+#SHOP:hover ~ .Rectangle_3 {
+    left: 10.7vw;
 }
 #BLOG {
     left: 16.25vw;
@@ -109,6 +117,10 @@
     font-weight: normal;
     font-size: 1.563vw;
     color: rgba(255,255,255,1);
+    background-color: transparent;
+}
+#BLOG:hover ~ .Rectangle_3 {
+    left: 16.1vw;
 }
 #CONTACT {
     left: 21.406vw;
@@ -123,6 +135,10 @@
     font-weight: normal;
     font-size: 1.563vw;
     color: rgba(255,255,255,1);
+    background-color: transparent;
+}
+#CONTACT:hover ~ .Rectangle_3 {
+    left: 22.7vw;
 }
 #Rectangle_3 {
     fill: rgba(255,255,255,1);

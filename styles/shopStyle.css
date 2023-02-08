@@ -145,6 +145,7 @@ body {
     transition: left 250ms ease-in-out;
 }
 #plant2 {
+    opacity: 0.556;
     position: absolute;
     width: 17.917vw;
     height: 20.521vw;
@@ -152,8 +153,8 @@ body {
     top: 7.76vw;
     border-radius: 3vw;
 }
-#plant2:hover ~ .Rectangle_5 {
-    width: 20.917vw;
+#plant2:hover {
+    opacity: 0;
 }
 #Rectangle_2 {
     fill: rgba(43,43,43,1);
